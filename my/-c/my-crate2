@@ -1,0 +1,1 @@
+{"name":"my-crate2","vers":"0.1.0","deps":[{"name":"my-crate","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c2ca7b247a9865c0d2239e963f196b872e234a143619581c07c157ab7afcea7","features":{},"yanked":false}
