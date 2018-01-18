@@ -1,0 +1,4 @@
+{
+    "dl": "https://raw.githubusercontent.com/sfackler/busted-registry/master/crates/{crate}/{crate}-{version}.crate",
+    "api": "https://localhost"
+}
